@@ -1,8 +1,5 @@
 # TechBlog_14
-
-# Note_Taker_11
-Professional README Generator
-
+ Tech Blog
 
 ## Description
 ![Screenshot](assets/screenshot.png)
@@ -10,7 +7,7 @@ Professional README Generator
 [![A video thumbnail shows the command-line application with a play button overlaying the view.](./Assets/09-thumbnail.png)](https://drive.google.com/file/d/1TyDL1hQ58rLrL_T2EtzGx7Fw472nsMvQ/preview)
 
 
-This is a note-taker app that demonstrates usage of express.js back end and is fully deployed front and back end on Render.
+This is a CMS-style blog application that is deployed on Render.
 
 ## Usage
 
