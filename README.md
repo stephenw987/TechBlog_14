@@ -2,12 +2,17 @@
  Tech Blog
 
 ## Description
-![Screenshot](assets/screenshot.png)
-
-[![A video thumbnail shows the command-line application with a play button overlaying the view.](./Assets/09-thumbnail.png)](https://drive.google.com/file/d/1TyDL1hQ58rLrL_T2EtzGx7Fw472nsMvQ/preview)
-
 
 This is a CMS-style blog application that is deployed on Render.
+
+![Screenshot](assets/screenshot1.png)
+![Screenshot](assets/screenshot2.png)
+
+[![video thumbnail](./Assets/thumbnail.png)](https://drive.google.com/file/d/1xXVqzhZ0NM9QBvIxsBdYBulI-z_OHSCx/view)
+
+Deployed site: https://note-taker-11-4z3n.onrender.com
+Repo: https://github.com/stephenw987/Note_Taker_11.git
+
 
 ## Usage
 
