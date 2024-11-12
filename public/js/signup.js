@@ -21,11 +21,11 @@ const signupFormHandler = async function (event) {
     if (response.ok) {
       document.location.replace('/');
     } else {
-      alert('Failed to sign up');
+      alert('Sign up failure');
     }
   } else {
     alert(
-      'Please include both a username and password, and make sure your password is at least 8 characters long'
+      'Username and password required, password minimum length 8 char'
     );
   }
 };
